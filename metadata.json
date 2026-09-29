@@ -1,0 +1,8 @@
+{
+  "name": "The Place to B — Section B at UCLA Anderson",
+  "description": "61 students. One section. One signal. The Place to B — UCLA Anderson Class of 2028.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
