@@ -161,7 +161,7 @@ export const Header: React.FC<HeaderProps> = ({
               title={theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode'}
             >
               {theme === 'dark' ? (
-                <Sun className="w-4 h-4 text-[#F4B942]" />
+                <Sun className="w-4 h-4 text-[#F4B942]" fill="currentColor" strokeWidth={2.5} />
               ) : (
                 <Moon className="w-4 h-4 text-[#2774AE]" />
               )}
